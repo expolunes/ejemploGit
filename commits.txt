@@ -1,0 +1,17 @@
+commit 3dbe008adfe9eb2b854c22907871f1275fdc0532
+Author: Tony Torres <torresrivas.antonio@gmail.com>
+Date:   Wed Apr 12 11:03:43 2017 -0500
+
+    este commit lo agregue en TEST
+
+commit 99e1e5b1500662d7cb3643bf03465d7e9144d74e
+Author: Tony Torres <torresrivas.antonio@gmail.com>
+Date:   Wed Apr 12 10:43:47 2017 -0500
+
+    Modifique el archivos setting.py
+
+commit 97d87402dffdab352949b94b23b6e3f2336e3d82
+Author: Tony Torres <torresrivas.antonio@gmail.com>
+Date:   Wed Apr 12 10:35:07 2017 -0500
+
+    mi primer commit
